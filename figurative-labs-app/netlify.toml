@@ -1,0 +1,11 @@
+[[redirects]]
+  # Redirect /appkong/* requests to the Appkong folder
+  from = "/appkong/*"
+  to = "/figurative-labs-app/appkong/:splat"
+  status = 200
+
+[[redirects]]
+  # Redirect /apppanthere/* requests to the Apppanthere folder
+  from = "/apppanthere/*"
+  to = "/figurative-labs-app/apppanthere/:splat"
+  status = 200
