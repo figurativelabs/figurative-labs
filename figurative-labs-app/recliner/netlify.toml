@@ -1,0 +1,6 @@
+[[redirects]]
+  # Redirect /recliner/* requests to the recliner folder
+  from = "/recliner/*"
+  to = "/figurative-labs-app/recliner/:splat"
+  status = 200
+

@@ -1,11 +1,11 @@
 [[redirects]]
-  # Redirect /appkong/* requests to the Appkong folder
-  from = "/appkong/*"
-  to = "/figurative-labs-app/appkong/:splat"
+  # Redirect /recliner/* requests to the recliner folder
+  from = "/recliner/*"
+  to = "/figurative-labs-app/recliner/:splat"
   status = 200
 
 [[redirects]]
-  # Redirect /apppanthere/* requests to the Apppanthere folder
-  from = "/apppanthere/*"
-  to = "/figurative-labs-app/apppanthere/:splat"
+  # Redirect /swiss_army_knife/* requests to the swiss_army_knife folder
+  from = "/swiss_army_knife/*"
+  to = "/figurative-labs-app/swiss_army_knife/:splat"
   status = 200
